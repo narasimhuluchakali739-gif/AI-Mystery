@@ -76,4 +76,4 @@ The app rate-limits API requests and limits request bodies. It currently has no 
 
 ## Build
 
-`npm test` runs deterministic API generation and error-mapping tests. `npm run build` compiles the API and production web assets.......
+`npm test` runs deterministic API generation and error-mapping tests. `npm run build` compiles the API and production web assets.
